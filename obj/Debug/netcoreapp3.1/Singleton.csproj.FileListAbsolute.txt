@@ -1,0 +1,11 @@
+/Users/Jen/Projects/KataClub-Singleton/bin/Debug/netcoreapp3.1/Singleton.deps.json
+/Users/Jen/Projects/KataClub-Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.json
+/Users/Jen/Projects/KataClub-Singleton/bin/Debug/netcoreapp3.1/Singleton.runtimeconfig.dev.json
+/Users/Jen/Projects/KataClub-Singleton/bin/Debug/netcoreapp3.1/Singleton.dll
+/Users/Jen/Projects/KataClub-Singleton/bin/Debug/netcoreapp3.1/Singleton.pdb
+/Users/Jen/Projects/KataClub-Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfoInputs.cache
+/Users/Jen/Projects/KataClub-Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfo.cs
+/Users/Jen/Projects/KataClub-Singleton/obj/Debug/netcoreapp3.1/Singleton.csproj.CoreCompileInputs.cache
+/Users/Jen/Projects/KataClub-Singleton/obj/Debug/netcoreapp3.1/Singleton.dll
+/Users/Jen/Projects/KataClub-Singleton/obj/Debug/netcoreapp3.1/Singleton.pdb
+/Users/Jen/Projects/KataClub-Singleton/obj/Debug/netcoreapp3.1/Singleton.genruntimeconfig.cache

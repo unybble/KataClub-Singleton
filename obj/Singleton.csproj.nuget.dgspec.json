@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Jen/Projects/Singleton/Singleton.csproj": {}
+    "/Users/Jen/Projects/KataClub-Singleton/Singleton.csproj": {}
   },
   "projects": {
-    "/Users/Jen/Projects/Singleton/Singleton.csproj": {
+    "/Users/Jen/Projects/KataClub-Singleton/Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Jen/Projects/Singleton/Singleton.csproj",
+        "projectUniqueName": "/Users/Jen/Projects/KataClub-Singleton/Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "/Users/Jen/Projects/Singleton/Singleton.csproj",
+        "projectPath": "/Users/Jen/Projects/KataClub-Singleton/Singleton.csproj",
         "packagesPath": "/Users/Jen/.nuget/packages/",
-        "outputPath": "/Users/Jen/Projects/Singleton/obj/",
+        "outputPath": "/Users/Jen/Projects/KataClub-Singleton/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

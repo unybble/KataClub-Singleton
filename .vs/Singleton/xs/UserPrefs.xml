@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{26EE7699-706B-475E-BBA6-B0FAF039B9D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingletonCatFactsAPI.cs">
+    <Files>
+      <File FileName="Program.cs" Line="24" Column="1" />
+      <File FileName="SingletonVariations.cs" Line="91" Column="6" />
+      <File FileName="PerformanceMarker.cs" Line="24" Column="39" />
+      <File FileName="SingletonCatFacts.cs" Line="32" Column="1" />
+      <File FileName="CatFactsAPI.cs" Line="37" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Singleton" expanded="True">
+            <Node name="Singleton" expanded="True">
+              <Node name="SingletonCatFactsAPI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Jen/Projects/KataClub-Singleton/Program.cs" relfile="Program.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
