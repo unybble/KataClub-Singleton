@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="SingletonCatFactsAPI.cs">
     <Files>
       <File FileName="Program.cs" Line="24" Column="1" />
-      <File FileName="SingletonVariations.cs" Line="91" Column="6" />
-      <File FileName="PerformanceMarker.cs" Line="24" Column="39" />
-      <File FileName="SingletonCatFacts.cs" Line="32" Column="1" />
-      <File FileName="CatFactsAPI.cs" Line="37" Column="1" />
+      <File FileName="SingletonVariations.cs" />
+      <File FileName="PerformanceMarker.cs" />
+      <File FileName="CatFactsAPI.cs" />
+      <File FileName="SingletonCatFactsAPI.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

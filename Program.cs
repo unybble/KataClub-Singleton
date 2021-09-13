@@ -21,13 +21,13 @@ namespace Singleton
                 {
                     var cf = SingletonCatFactsAPI.Instance;
                     var fact =  cf.GetCatFact().Result;
-                    Console.WriteLine(fact.text);
+                    Console.WriteLine(fact.fact);
                 }
                 else
                 {
                     var cf = new CatFactsAPI();
                     var fact = cf.GetCatFact().Result;
-                    Console.WriteLine(fact.text);
+                    Console.WriteLine(fact.fact);
                 }
             }
 

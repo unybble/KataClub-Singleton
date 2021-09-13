@@ -15,7 +15,7 @@ namespace Singleton
             _marker = PerformanceMarker.Instance;
             client = new HttpClient
             {
-                BaseAddress = new Uri("https://cat-fact.herokuapp.com")
+                BaseAddress = new Uri("https://catfact.ninja")
             };
         }
 
@@ -23,9 +23,9 @@ namespace Singleton
 
         public async Task<CatFact> GetCatFact()
         {
-            CatFact fact = new CatFact() { text="Nothing to see." };
+            CatFact fact = new CatFact() { fact="Nothing to see." };
             var start = DateTime.Now;
-            using (var response = await client.GetAsync("/facts/random?amount=1"))
+            using (var response = await client.GetAsync("/fact"))
             {
                 var content = await response.Content.ReadAsStringAsync();
                 if (content.Length != 0)
@@ -40,7 +40,7 @@ namespace Singleton
 
         public class CatFact
         {
-            public string text { get; set; }
+            public string fact { get; set; }
         }
 
        
